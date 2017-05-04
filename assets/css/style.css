@@ -77,10 +77,12 @@ h3 {
   background: #4aaaa5;
 }
 
+/* boostrap change */
 nav {
   float: right;
   margin-top: 25px;
 }
+
 
 nav a {
   display: inline-block;
