@@ -77,12 +77,10 @@ h3 {
   background: #4aaaa5;
 }
 
-/* boostrap change */
 nav {
   float: right;
   margin-top: 25px;
 }
-
 
 nav a {
   display: inline-block;
@@ -238,9 +236,4 @@ input[type=submit] {
   cursor: pointer;
   background: #4aaaa5;
   border: 0 none;
-}
-
-#techdeflink {
-  color: #4aaaa5;
-  font-weight: bold;
 }
